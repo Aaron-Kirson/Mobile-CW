@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RentalZ</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_prompt">Name:</string>
+    <string name="next_command_prompt">NEXT</string>
+    <string name="exit_command_label">EXIT</string>
+    <string name="work_prompt">Work Status:</string>
+    <string name="agree_terms_prompt">Do you Agree Terms and Conditions?</string>
+</resources>
